@@ -3,9 +3,10 @@
 ## Assumptions
 
 - The robot is standing at a counter.
-- The bread is on the bag on the counter.
+- The bread is in a bag on the counter.
 - The sandwich ingredients are on the counter.
 - A clean plate is on the counter.
+- The robots hands are empty.
 
 ## Steps
 
